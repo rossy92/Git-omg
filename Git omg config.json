@@ -1,12 +1,3 @@
-{
-  "m3u": "https://pastebin.com/raw/YeYjVni0",
-  "proxy": "https://rossy92-uhm.hf.space",
-  "proxy_pwd": "4Str3m10!",
-  "update_interval": "04:00",
-  "resolver_script": "https://raw.githubusercontent.com/ciccioxm3/omg/refs/heads/main/ResolverVV.py",
-  "resolver_enabled": true,
-  "python_script_url": "https://raw.githubusercontent.com/ciccioxm3/omg/refs/heads/main/ScriptVV.py",
-  "epg_enabled": false,
-  "force_proxy": false,
-  "resolver_update_interval": ""
-}
+http://inthemix.altervista.org/tv.m3u
+https://rossy92-omgtv.hf.space/generated-m3u
+https://github.com/ciccioxm3/omg/raw/refs/heads/main/mergeita.m3u8
